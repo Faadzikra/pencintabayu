@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title("Agus kopling")
 st.write("Muka buronan bayu")
-st.image ("https://github.com/Faadzikra/pencintabayu/blob/main/7dc65b19-ff63-40b3-9966-a150e6fbb70a.jpeg"), width=200)
+st.image ("7dc65b19-ff63-40b3-9966-a150e6fbb70a.jpeg"), width=200)
 
 st.title("Aplikasi Sederhana")
 st.header("Aplikasi mengecek nilai Genap/Ganjil")
